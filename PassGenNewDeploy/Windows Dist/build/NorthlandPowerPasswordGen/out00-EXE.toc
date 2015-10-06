@@ -1,0 +1,9 @@
+('c:\\Users\\cchan\\Desktop\\HardwarePass\\dist\\NorthlandPowerPasswordGen.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1432911489)
